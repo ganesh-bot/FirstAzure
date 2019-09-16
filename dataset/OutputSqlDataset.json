@@ -23,7 +23,7 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "",
+			"schema": "dbo",
 			"table": "emp"
 		}
 	}
